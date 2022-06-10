@@ -3,26 +3,26 @@
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "sites": [
         {
-            "key": "天天影视",
-            "name": "天天影视",
+            "key": "Movie",
+            "name": "Movie",
             "type": 1,
             "api": "http://tt2022.ga/api.php/provide/vod/",
             "categories": [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧"
+                "Movie",
+                "TV Series",
+                "Show",
+                "Cartoon",
+                "Action",
+                "Xiju",
+                "Love",
+                "Sci-Fi",
+                "Horro",
+                "Juqing",
+                "War",
+                "CN",
+                "HK-TW",
+                "JP-KR",
+                "Euro-US"
             ]
         },
         {
